@@ -1,0 +1,42 @@
+.main-header{
+	background-color: rgba(0, 0, 0, 0.2);
+	position: fixed;
+	width: 100%;
+	color: #ffffff;
+}
+#banner{
+	max-height: 50px;
+	width: 100px;
+	background-image: url("image/Untitle");
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: 100px 0;
+	color: #ffffff;
+	margin-bottom: 10px;
+
+}
+.image-black {
+	width: 100px;
+	height: 15px;
+
+}
+.img-block {
+	width: 100%;
+
+}
+.nav a{
+	/*color: #ffffff;*/
+}
+.nav a:hover{
+	/*color: #ffffff;*/
+	background: transparent; !important;
+
+}
+#main-header .nav{
+	margin-top: 15px
+	float: left;
+
+}
+#section3{
+	background-color: white;
+}
